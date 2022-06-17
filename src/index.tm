@@ -1,6 +1,6 @@
 <TeXmacs|2.1.1>
 
-<style|<tuple|notes|html-font-size|html-fold|libertine-font>>
+<style|<tuple|notes|html-font-size|html-fold|biolinum-font>>
 
 <\body>
   <section*|Papers to note>
@@ -21,7 +21,7 @@
       Abi Adams-Prassl
     </cell>>|<row|<\cell>
       <hlink|Nonlinear Pricing and Misallocation|https://www.dropbox.com/s/xjrr0lss1xcl43x/NLP_BornsteinPeter.pdf?dl=0>
-      </cell>|<\cell>
+    </cell>|<\cell>
       \;
     </cell>|<\cell>
       WP 2022
@@ -29,6 +29,16 @@
       Gideon Bornstein;
 
       Alessandra Peter
+    </cell>>|<row|<\cell>
+      Quantifying the Welfare Gains of Variety: A Sufficient Statistics
+      Approach
+    </cell>|<\cell>
+      <hlink|Summary|variety.tm>
+    </cell>|<\cell>
+      WP 2017
+    </cell>|<\cell>
+      Kory Kroft, Jean-William P. Laliberte\<#301\>, Rene\<#301\>
+      Leal-Vizcai\<#301\>no, and Matthew J. Notowidigdo
     </cell>>>>
   </wide-tabular>
 </body>
